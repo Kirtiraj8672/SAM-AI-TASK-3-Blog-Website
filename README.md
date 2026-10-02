@@ -59,6 +59,11 @@ git clone https://github.com/Kirtiraj8672/SAM-AI-TASK-3-Blog-Website.git
 Open `index.html` in your browser.
 
 ---
+## 🌐 Live Demo
+
+🔗 [View Live Blog Website](https://kirtiraj8672.github.io/SAM-AI-TASK-3-Blog-Website/)
+
+---
 
 # 📚 Learning Outcomes
 
